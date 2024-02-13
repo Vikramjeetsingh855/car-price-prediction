@@ -1,2 +1,2 @@
 # car-price-prediction
-Data Science project
+car price pridction project using Machine Learning model.
